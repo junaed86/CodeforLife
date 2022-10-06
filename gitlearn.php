@@ -3,9 +3,8 @@ $hello_Name = "Jubin";
 public function display_Name(){
 	
 }
-public function branchA()
+
+public function anotherbranch()
 {
-	return xxx;
+	print "anotherbranch";
 }
-echo "$hello_Name";
-?>
